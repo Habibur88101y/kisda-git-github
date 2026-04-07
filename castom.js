@@ -1,3 +1,6 @@
-//i am from master
+//i am from slider
 console.log('hello world')
 alert('hello world')
+
+
+
